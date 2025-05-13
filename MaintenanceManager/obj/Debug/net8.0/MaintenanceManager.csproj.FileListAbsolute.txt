@@ -1,0 +1,14 @@
+C:\Users\User\Source_code\MaintenanceExample\MaintenanceManager\bin\Debug\net8.0\MaintenanceManager.exe
+C:\Users\User\Source_code\MaintenanceExample\MaintenanceManager\bin\Debug\net8.0\MaintenanceManager.deps.json
+C:\Users\User\Source_code\MaintenanceExample\MaintenanceManager\bin\Debug\net8.0\MaintenanceManager.runtimeconfig.json
+C:\Users\User\Source_code\MaintenanceExample\MaintenanceManager\bin\Debug\net8.0\MaintenanceManager.dll
+C:\Users\User\Source_code\MaintenanceExample\MaintenanceManager\bin\Debug\net8.0\MaintenanceManager.pdb
+C:\Users\User\Source_code\MaintenanceExample\MaintenanceManager\obj\Debug\net8.0\MaintenanceManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source_code\MaintenanceExample\MaintenanceManager\obj\Debug\net8.0\MaintenanceManager.AssemblyInfoInputs.cache
+C:\Users\User\Source_code\MaintenanceExample\MaintenanceManager\obj\Debug\net8.0\MaintenanceManager.AssemblyInfo.cs
+C:\Users\User\Source_code\MaintenanceExample\MaintenanceManager\obj\Debug\net8.0\MaintenanceManager.csproj.CoreCompileInputs.cache
+C:\Users\User\Source_code\MaintenanceExample\MaintenanceManager\obj\Debug\net8.0\MaintenanceManager.dll
+C:\Users\User\Source_code\MaintenanceExample\MaintenanceManager\obj\Debug\net8.0\refint\MaintenanceManager.dll
+C:\Users\User\Source_code\MaintenanceExample\MaintenanceManager\obj\Debug\net8.0\MaintenanceManager.pdb
+C:\Users\User\Source_code\MaintenanceExample\MaintenanceManager\obj\Debug\net8.0\MaintenanceManager.genruntimeconfig.cache
+C:\Users\User\Source_code\MaintenanceExample\MaintenanceManager\obj\Debug\net8.0\ref\MaintenanceManager.dll
